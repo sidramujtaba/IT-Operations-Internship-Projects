@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Oracle SQL Developer
+*.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store

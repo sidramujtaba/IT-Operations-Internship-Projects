@@ -1,0 +1,2 @@
+Oracle Database 21c or later
+Oracle SQL Developer
