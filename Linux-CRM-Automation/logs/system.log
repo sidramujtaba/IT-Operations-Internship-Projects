@@ -1,0 +1,9 @@
+=========================================
+CRM LOG GENERATOR
+=========================================
+
+[WARNING] 2026-08-19 11:19:53 - Database response time is high.
+[INFO] 2026-08-19 11:19:54 - Customer login successful.
+[ERROR] 2026-08-19 11:19:55 - Failed to connect to CRM database.
+[WARNING] 2026-08-19 11:19:56 - Database response time is high.
+[INFO] 2026-08-19 11:19:57 - Customer login successful.
